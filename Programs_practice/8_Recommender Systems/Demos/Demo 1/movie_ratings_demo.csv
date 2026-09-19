@@ -1,0 +1,16 @@
+user_id,movie_id,movie_title,rating
+U1,M1,Inception,5
+U1,M2,The Matrix,4
+U1,M3,Interstellar,5
+U2,M2,The Matrix,5
+U2,M4,The Godfather,4
+U2,M5,Pulp Fiction,5
+U3,M1,Inception,4
+U3,M5,Pulp Fiction,5
+U3,M6,The Dark Knight,5
+U4,M3,Interstellar,4
+U4,M4,The Godfather,5
+U4,M6,The Dark Knight,4
+U5,M1,Inception,2
+U5,M2,The Matrix,3
+U5,M6,The Dark Knight,4

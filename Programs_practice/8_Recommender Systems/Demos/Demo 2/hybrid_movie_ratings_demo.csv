@@ -1,0 +1,51 @@
+user_id,movie_id,movie_title,rating,genre,director
+U2,M1,Inception,3,Sci-Fi,Christopher Nolan
+U4,M4,The Godfather,2,Crime,Francis Ford Coppola
+U2,M9,The Shawshank Redemption,1,Drama,Frank Darabont
+U10,M7,Fight Club,1,Drama,David Fincher
+U1,M2,The Matrix,2,Sci-Fi,Wachowski Sisters
+U4,M9,The Shawshank Redemption,5,Drama,Frank Darabont
+U1,M9,The Shawshank Redemption,2,Drama,Frank Darabont
+U9,M7,Fight Club,2,Drama,David Fincher
+U8,M10,The Avengers,3,Action,Joss Whedon
+U1,M3,Interstellar,4,Sci-Fi,Christopher Nolan
+U6,M5,Pulp Fiction,2,Crime,Quentin Tarantino
+U4,M6,The Dark Knight,1,Action,Christopher Nolan
+U2,M7,Fight Club,1,Drama,David Fincher
+U6,M6,The Dark Knight,5,Action,Christopher Nolan
+U5,M1,Inception,4,Sci-Fi,Christopher Nolan
+U9,M2,The Matrix,4,Sci-Fi,Wachowski Sisters
+U2,M9,The Shawshank Redemption,3,Drama,Frank Darabont
+U10,M6,The Dark Knight,5,Action,Christopher Nolan
+U4,M2,The Matrix,1,Sci-Fi,Wachowski Sisters
+U4,M5,Pulp Fiction,1,Crime,Quentin Tarantino
+U4,M2,The Matrix,4,Sci-Fi,Wachowski Sisters
+U5,M8,Forrest Gump,3,Drama,Robert Zemeckis
+U3,M6,The Dark Knight,3,Action,Christopher Nolan
+U4,M5,Pulp Fiction,1,Crime,Quentin Tarantino
+U10,M3,Interstellar,5,Sci-Fi,Christopher Nolan
+U4,M3,Interstellar,4,Sci-Fi,Christopher Nolan
+U7,M5,Pulp Fiction,5,Crime,Quentin Tarantino
+U4,M6,The Dark Knight,1,Action,Christopher Nolan
+U4,M1,Inception,3,Sci-Fi,Christopher Nolan
+U7,M5,Pulp Fiction,1,Crime,Quentin Tarantino
+U4,M10,The Avengers,3,Action,Joss Whedon
+U4,M8,Forrest Gump,4,Drama,Robert Zemeckis
+U8,M3,Interstellar,3,Sci-Fi,Christopher Nolan
+U3,M4,The Godfather,5,Crime,Francis Ford Coppola
+U9,M5,Pulp Fiction,5,Crime,Quentin Tarantino
+U7,M10,The Avengers,4,Action,Joss Whedon
+U6,M4,The Godfather,2,Crime,Francis Ford Coppola
+U9,M8,Forrest Gump,1,Drama,Robert Zemeckis
+U1,M2,The Matrix,2,Sci-Fi,Wachowski Sisters
+U3,M7,Fight Club,5,Drama,David Fincher
+U2,M7,Fight Club,4,Drama,David Fincher
+U10,M8,Forrest Gump,5,Drama,Robert Zemeckis
+U5,M9,The Shawshank Redemption,1,Drama,Frank Darabont
+U2,M9,The Shawshank Redemption,3,Drama,Frank Darabont
+U6,M2,The Matrix,3,Sci-Fi,Wachowski Sisters
+U7,M3,Interstellar,4,Sci-Fi,Christopher Nolan
+U1,M5,Pulp Fiction,5,Crime,Quentin Tarantino
+U3,M9,The Shawshank Redemption,1,Drama,Frank Darabont
+U5,M9,The Shawshank Redemption,5,Drama,Frank Darabont
+U4,M3,Interstellar,3,Sci-Fi,Christopher Nolan
