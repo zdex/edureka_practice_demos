@@ -1,0 +1,13 @@
+streamlit              # Web app interface
+langchain              # Main framework for building the AI agent
+langchain-core         # Core LangChain components like prompts and parsers
+langchain-community    # Extra integrations like document loaders
+langchain-groq         # Connects LangChain to Groq API
+langchain-huggingface  # Connects LangChain to Hugging Face embeddings/models
+python-dotenv          # Loads API keys from .env file
+docx2txt               # Reads Word documents
+pypdf                  # Reads PDF files
+chromadb               # Vector database for document search
+sentence-transformers  # Creates embeddings for document chunks
+langchain-text-splitters
+python-docx

@@ -1,0 +1,16 @@
+issue,category,solution,escalation_required
+VPN not connecting,Network,"Restart VPN client, check internet connection, and verify MFA approval.",No
+Laptop overheating,Hardware,"Check ventilation, restart laptop, and contact Hardware Support if overheating continues.",Yes
+Outlook not opening,Email,"Open Outlook in safe mode, clear cache, and recreate Outlook profile if needed.",No
+Printer not working,Infrastructure,"Check printer power, paper tray, toner level, and network connection.",No
+Password reset required,Access Management,Use self-service password portal or contact IT Helpdesk.,No
+WiFi disconnecting frequently,Network,"Restart router, reconnect to WiFi, and update wireless drivers.",No
+Blue screen error,Hardware,Restart the system and check for recent driver updates.,Yes
+Email attachment not sending,Email,Reduce attachment size and verify internet connectivity.,No
+Teams audio not working,Collaboration Tools,Check microphone settings and restart Microsoft Teams.,No
+System running very slow,Performance,Close unused applications and disable unnecessary startup programs.,No
+Account locked,Access Management,Wait 15 minutes or contact IT support to unlock the account.,No
+Monitor not detected,Hardware,Reconnect HDMI cable and restart display settings.,No
+Mouse not working,Hardware,Reconnect the mouse or replace batteries if wireless.,No
+Keyboard typing wrong characters,Hardware,Check keyboard language settings and restart the system.,No
+Unable to access shared drive,Network,Reconnect to VPN and verify network permissions.,Yes
