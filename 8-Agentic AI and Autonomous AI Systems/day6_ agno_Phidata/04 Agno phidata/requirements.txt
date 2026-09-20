@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+pinecone
+sentence-transformers
+phidata
+pyreadline3
+google-generativeai

@@ -1,0 +1,148 @@
+transaction_id,date,merchant,transaction_type,amount,currency,category,payment_method,account,notes
+TXN001,2026-07-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN002,2026-07-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN003,2026-07-03,BigBasket,Debit,-3250,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN004,2026-07-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN005,2026-07-05,Uber,Debit,-460,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN006,2026-07-06,Swiggy,Debit,-780,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN007,2026-07-08,BESCOM,Debit,-2100,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN008,2026-07-09,Amazon India,Debit,-4200,INR,Shopping,Credit Card,HDFC Credit Card,Household purchase
+TXN009,2026-07-10,Namma Metro,Debit,-1000,INR,Transport,UPI,HDFC Salary Account,Metro recharge
+TXN010,2026-07-11,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN011,2026-07-12,Cafe Coffee Day,Debit,-420,INR,Dining,Card,HDFC Credit Card,Coffee and snacks
+TXN012,2026-07-14,Apollo Pharmacy,Debit,-1380,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN013,2026-07-15,Savings Account,Transfer,-7000,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN014,2026-07-16,Swiggy,Debit,-920,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN015,2026-07-18,Dmart,Debit,-2850,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN016,2026-07-19,Uber,Debit,-510,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN017,2026-07-20,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN018,2026-07-22,Restaurant Dinner,Debit,-2600,INR,Dining,Card,HDFC Credit Card,Dinner with friends
+TXN019,2026-07-24,Udemy,Debit,-899,INR,Education,Card,HDFC Credit Card,Online course
+TXN020,2026-07-25,HDFC Bank,Debit,-250,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN021,2026-07-27,Myntra,Debit,-3400,INR,Shopping,Card,HDFC Credit Card,Clothing purchase
+TXN022,2026-07-29,HDFC Bank,Interest,+310,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest
+TXN023,2026-08-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN024,2026-08-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN025,2026-08-03,BigBasket,Debit,-3540,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN026,2026-08-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN027,2026-08-05,Uber,Debit,-520,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN028,2026-08-06,Swiggy,Debit,-1250,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN029,2026-08-07,BESCOM,Debit,-2350,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN030,2026-08-08,Amazon India,Debit,-8700,INR,Shopping,Credit Card,HDFC Credit Card,Electronics purchase
+TXN031,2026-08-09,Namma Metro,Debit,-1000,INR,Transport,UPI,HDFC Salary Account,Metro recharge
+TXN032,2026-08-10,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN033,2026-08-11,Cafe Coffee Day,Debit,-510,INR,Dining,Card,HDFC Credit Card,Coffee and snacks
+TXN034,2026-08-12,Apollo Pharmacy,Debit,-650,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN035,2026-08-13,Savings Account,Transfer,-7000,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN036,2026-08-14,Swiggy,Debit,-980,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN037,2026-08-16,Dmart,Debit,-3100,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN038,2026-08-17,Uber,Debit,-620,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN039,2026-08-18,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN040,2026-08-19,Restaurant Dinner,Debit,-3900,INR,Dining,Card,HDFC Credit Card,Dinner
+TXN041,2026-08-20,IndiGo,Debit,-12500,INR,Travel,Credit Card,HDFC Credit Card,Flight ticket
+TXN042,2026-08-21,Hotel Booking,Debit,-7200,INR,Travel,Credit Card,HDFC Credit Card,Hotel reservation
+TXN043,2026-08-23,HDFC Bank,Debit,-350,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN044,2026-08-24,Myntra,Debit,-2800,INR,Shopping,Card,HDFC Credit Card,Clothing purchase
+TXN045,2026-08-26,Swiggy,Debit,-1150,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN046,2026-08-27,HDFC Bank,Cashback,+450,INR,Cashback,Bank Credit,HDFC Credit Card,Card cashback
+TXN047,2026-08-28,Uber,Debit,-580,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN048,2026-08-30,Medical Clinic,Debit,-2200,INR,Healthcare,UPI,HDFC Salary Account,Doctor consultation
+TXN049,2026-09-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN050,2026-09-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN051,2026-09-03,BigBasket,Debit,-3380,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN052,2026-09-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN053,2026-09-05,Uber,Debit,-490,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN054,2026-09-06,Swiggy,Debit,-890,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN055,2026-09-07,BESCOM,Debit,-2180,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN056,2026-09-09,Amazon India,Debit,-5600,INR,Shopping,Credit Card,HDFC Credit Card,Home supplies
+TXN057,2026-09-10,Namma Metro,Debit,-1000,INR,Transport,UPI,HDFC Salary Account,Metro recharge
+TXN058,2026-09-11,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN059,2026-09-12,Cafe Coffee Day,Debit,-460,INR,Dining,Card,HDFC Credit Card,Coffee and snacks
+TXN060,2026-09-14,Apollo Pharmacy,Debit,-920,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN061,2026-09-15,Savings Account,Transfer,-7000,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN062,2026-09-16,Swiggy,Debit,-760,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN063,2026-09-18,Dmart,Debit,-2950,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN064,2026-09-19,Uber,Debit,-540,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN065,2026-09-20,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN066,2026-09-22,Restaurant Dinner,Debit,-2800,INR,Dining,Card,HDFC Credit Card,Dinner
+TXN067,2026-09-24,Coursera,Debit,-1299,INR,Education,Card,HDFC Credit Card,Online course
+TXN068,2026-09-25,HDFC Bank,Debit,-250,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN069,2026-09-27,Myntra,Debit,-4200,INR,Shopping,Card,HDFC Credit Card,Clothing purchase
+TXN070,2026-09-29,HDFC Bank,Interest,+325,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest
+TXN071,2026-10-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN072,2026-10-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN073,2026-10-03,BigBasket,Debit,-3650,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN074,2026-10-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN075,2026-10-05,Uber,Debit,-610,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN076,2026-10-06,Swiggy,Debit,-1050,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN077,2026-10-07,BESCOM,Debit,-2460,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN078,2026-10-09,Amazon India,Debit,-6400,INR,Shopping,Credit Card,HDFC Credit Card,Household purchase
+TXN079,2026-10-10,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN080,2026-10-12,Apollo Pharmacy,Debit,-740,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN081,2026-10-13,Savings Account,Transfer,-7500,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN082,2026-10-15,Dmart,Debit,-3250,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN083,2026-10-17,Uber,Debit,-580,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN084,2026-10-19,Restaurant Dinner,Debit,-3200,INR,Dining,Card,HDFC Credit Card,Dinner
+TXN085,2026-10-21,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN086,2026-10-23,Decathlon,Debit,-3800,INR,Shopping,Card,HDFC Credit Card,Sports equipment
+TXN087,2026-10-25,HDFC Bank,Debit,-250,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN088,2026-10-28,Medical Clinic,Debit,-1800,INR,Healthcare,UPI,HDFC Salary Account,Doctor consultation
+TXN089,2026-10-30,HDFC Bank,Interest,+340,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest
+TXN090,2026-11-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN091,2026-11-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN092,2026-11-03,BigBasket,Debit,-3420,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN093,2026-11-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN094,2026-11-05,Uber,Debit,-530,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN095,2026-11-06,Swiggy,Debit,-920,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN096,2026-11-07,BESCOM,Debit,-2290,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN097,2026-11-09,Amazon India,Debit,-7800,INR,Shopping,Credit Card,HDFC Credit Card,Electronics purchase
+TXN098,2026-11-10,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN099,2026-11-12,Apollo Pharmacy,Debit,-1150,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN100,2026-11-13,Savings Account,Transfer,-7500,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN101,2026-11-15,Dmart,Debit,-3020,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN102,2026-11-17,Uber,Debit,-670,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN103,2026-11-19,Restaurant Dinner,Debit,-4100,INR,Dining,Card,HDFC Credit Card,Dinner
+TXN104,2026-11-21,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN105,2026-11-23,Myntra,Debit,-5600,INR,Shopping,Card,HDFC Credit Card,Clothing purchase
+TXN106,2026-11-25,HDFC Bank,Debit,-300,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN107,2026-11-27,Swiggy,Debit,-840,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN108,2026-11-29,HDFC Bank,Interest,+355,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest
+TXN109,2026-12-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN110,2026-12-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN111,2026-12-03,BigBasket,Debit,-4100,INR,Groceries,UPI,HDFC Salary Account,Monthly groceries
+TXN112,2026-12-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN113,2026-12-05,Uber,Debit,-720,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN114,2026-12-06,Swiggy,Debit,-1320,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN115,2026-12-07,BESCOM,Debit,-2650,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN116,2026-12-09,Amazon India,Debit,-9200,INR,Shopping,Credit Card,HDFC Credit Card,Christmas shopping
+TXN117,2026-12-10,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN118,2026-12-12,Apollo Pharmacy,Debit,-860,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN119,2026-12-13,Savings Account,Transfer,-8000,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN120,2026-12-15,Dmart,Debit,-3850,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN121,2026-12-17,Uber,Debit,-640,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN122,2026-12-19,Restaurant Dinner,Debit,-5200,INR,Dining,Card,HDFC Credit Card,Holiday dinner
+TXN123,2026-12-21,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN124,2026-12-23,Myntra,Debit,-6800,INR,Shopping,Card,HDFC Credit Card,Holiday shopping
+TXN125,2026-12-25,Amazon India,Debit,-4500,INR,Gifts,Card,HDFC Credit Card,Gift purchases
+TXN126,2026-12-27,Swiggy,Debit,-1100,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN127,2026-12-29,HDFC Bank,Debit,-300,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN128,2026-12-31,HDFC Bank,Interest,+390,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest
+TXN129,2027-01-01,Nova Analytics Pvt Ltd,Credit,+80000,INR,Salary,Bank Transfer,HDFC Salary Account,Monthly salary
+TXN130,2027-01-02,Apartment Rent,Debit,-22000,INR,Housing,UPI,HDFC Salary Account,Monthly rent
+TXN131,2027-01-03,BigBasket,Debit,-3500,INR,Groceries,UPI,HDFC Salary Account,Weekly groceries
+TXN132,2027-01-04,Airtel Fiber,Debit,-1199,INR,Utilities,Auto Debit,HDFC Salary Account,Internet bill
+TXN133,2027-01-05,Uber,Debit,-560,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN134,2027-01-06,Swiggy,Debit,-950,INR,Dining,UPI,HDFC Salary Account,Food delivery
+TXN135,2027-01-07,BESCOM,Debit,-2380,INR,Utilities,UPI,HDFC Salary Account,Electricity bill
+TXN136,2027-01-09,Amazon India,Debit,-5100,INR,Shopping,Credit Card,HDFC Credit Card,Household purchase
+TXN137,2027-01-10,Netflix,Debit,-649,INR,Entertainment,Card,HDFC Credit Card,Monthly subscription
+TXN138,2027-01-12,Apollo Pharmacy,Debit,-720,INR,Healthcare,UPI,HDFC Salary Account,Pharmacy purchase
+TXN139,2027-01-13,Savings Account,Transfer,-8000,INR,Savings,UPI,HDFC Salary Account,Monthly savings transfer
+TXN140,2027-01-15,Dmart,Debit,-3180,INR,Groceries,Card,HDFC Credit Card,Monthly shopping
+TXN141,2027-01-17,Uber,Debit,-620,INR,Transport,UPI,HDFC Salary Account,Cab ride
+TXN142,2027-01-19,Restaurant Dinner,Debit,-3400,INR,Dining,Card,HDFC Credit Card,Dinner
+TXN143,2027-01-21,Spotify,Debit,-119,INR,Entertainment,Card,HDFC Credit Card,Music subscription
+TXN144,2027-01-23,Udemy,Debit,-1499,INR,Education,Card,HDFC Credit Card,Online course
+TXN145,2027-01-25,HDFC Bank,Debit,-300,INR,Banking,Auto Debit,HDFC Salary Account,Service fee
+TXN146,2027-01-27,Myntra,Debit,-3900,INR,Shopping,Card,HDFC Credit Card,Clothing purchase
+TXN147,2027-01-29,HDFC Bank,Interest,+410,INR,Interest,Bank Credit,HDFC Salary Account,Savings interest

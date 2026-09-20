@@ -1,0 +1,9 @@
+agno
+python-dotenv
+groq
+ddgs
+sqlalchemy
+google-genai
+chromadb
+yfinance>=0.2.54
+curl-cffi

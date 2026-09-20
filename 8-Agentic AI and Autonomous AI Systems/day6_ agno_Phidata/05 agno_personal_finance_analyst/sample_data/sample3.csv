@@ -1,0 +1,44 @@
+date,description,amount,category
+2026-07-01,Salary Nova Analytics Pvt Ltd,80000,Income
+2026-07-03,Apartment Rent,-22000,Housing
+2026-07-05,BigBasket Grocery,-3850,Groceries
+2026-07-08,Uber Trip,-540,Transport
+2026-07-11,Swiggy Order,-850,Dining
+2026-07-14,Airtel Fiber,-1199,Utilities
+2026-07-18,Amazon India,-3200,Shopping
+2026-07-21,Electricity Bill,-1950,Utilities
+2026-07-25,Savings Transfer,-8000,Savings
+2026-07-29,Interest Credit,325,Income
+2026-08-01,Salary Nova Analytics Pvt Ltd,80000,Income
+2026-08-02,Apartment Rent,-22000,Housing
+2026-08-04,Dmart Supermarket,-3420,Groceries
+2026-08-07,Uber Trip,-620,Transport
+2026-08-10,Netflix,-649,Entertainment
+2026-08-13,Swiggy Order,-1100,Dining
+2026-08-16,Apollo Pharmacy,-980,Healthcare
+2026-08-20,Myntra Shopping,-4600,Shopping
+2026-08-24,Electricity Bill,-2280,Utilities
+2026-08-27,Savings Transfer,-8000,Savings
+2026-08-30,Cashback Credit,520,Income
+2026-09-01,Salary Nova Analytics Pvt Ltd,80000,Income
+2026-09-03,Apartment Rent,-22000,Housing
+2026-09-06,BigBasket Grocery,-3650,Groceries
+2026-09-09,Metro Card Recharge,-1000,Transport
+2026-09-12,Cafe Coffee Day,-480,Dining
+2026-09-15,Airtel Fiber,-1199,Utilities
+2026-09-18,Amazon India,-5750,Shopping
+2026-09-22,Medical Clinic,-2400,Healthcare
+2026-09-25,Savings Transfer,-8500,Savings
+2026-09-28,Spotify,-119,Entertainment
+2026-09-30,Interest Credit,340,Income
+2026-10-01,Salary Nova Analytics Pvt Ltd,80000,Income
+2026-10-03,Apartment Rent,-22000,Housing
+2026-10-05,Dmart Supermarket,-3180,Groceries
+2026-10-08,Uber Trip,-590,Transport
+2026-10-11,Restaurant Dinner,-2850,Dining
+2026-10-14,Electricity Bill,-2470,Utilities
+2026-10-17,Amazon India,-6800,Shopping
+2026-10-20,Apollo Pharmacy,-720,Healthcare
+2026-10-24,Savings Transfer,-8500,Savings
+2026-10-27,Netflix,-649,Entertainment
+2026-10-30,Cashback Credit,410,Income
